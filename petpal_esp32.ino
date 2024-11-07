@@ -31,8 +31,8 @@
 
 void connectWebSocketServer();
 
-const char* ssid = "Telecentro-1b8a"; //Enter SSID
-const char* password = "7TW9MLY4WWAG"; //Enter Password
+const char* ssid = ""; //Enter SSID
+const char* password = ""; //Enter Password
 int last_update_sent = 0;
 int water_level = 0;
 int food_level = 0;
